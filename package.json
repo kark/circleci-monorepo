@@ -1,5 +1,5 @@
 {
-  "name": "yet-another-monorepo",
+  "name": "circleci-monorepo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

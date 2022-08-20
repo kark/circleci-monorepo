@@ -1,1 +1,1 @@
-console.log("Hello from proxy")
+console.log("Hello from services");
